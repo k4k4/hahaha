@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   version: "0.0.1"
   title: Example Title
-  description: <img src=x onerror="alert('123')"><dETAILS open onToGgle=a=prompt,a() x>
+  description: 1231231<img src=x onerror="alert('123')"><dETAILS open onToGgle=a=prompt,a() x>123132<a href=javascript:alert(123)>aaa</aa><h1>123123
 paths:
   /:
     get:
